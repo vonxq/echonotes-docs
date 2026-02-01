@@ -9,56 +9,66 @@
 | 字段 | 内容 |
 |------|------|
 | **App 名称** | EchoNotes |
-| **副标题** | 简洁高效的个人效率工具 |
+| **副标题 (中文)** | 专为 ADHD 设计的效率工具 |
+| **副标题 (英文)** | ADHD-Friendly Productivity Tool |
 | **Bundle ID** | com.echonotes.app |
-| **类别** | 主：效率 / 副：生活 |
+| **类别** | 主：效率 (Productivity) / 副：生活 (Lifestyle) |
 | **年龄分级** | 4+ |
 
 ---
+
+# 🇨🇳 中文版 (简体中文)
 
 ## 宣传文本 (Promotional Text)
 
 > 170 字符限制，可随时更新，无需审核
 
 ```
-简洁高效的个人效率管理应用。快速记录想法、专注执行任务、追踪长期目标、养成好习惯，一切尽在掌控。
+专为 ADHD 设计的任务管理应用。理解你的大脑，帮助你快速启动、保持专注、减少任务焦虑。简洁直观，让效率管理不再困难。
 ```
 
 ---
 
 ## App 描述 (Description)
 
-> 4000 字符限制
-
 ```
-EchoNotes - 简洁高效的个人效率工具
+EchoNotes - 专为 ADHD 设计的效率工具
 
-专为需要更好管理时间和注意力的你设计。
+我们理解 ADHD 大脑的独特需求：启动困难、容易分心、任务过载带来的焦虑。EchoNotes 专门为此而设计。
+
+【为 ADHD 优化的设计】
+
+🧠 理解你的大脑
+- 零阻力快速记录，不让想法溜走
+- 每日最多 3 个任务，避免过载焦虑
+- 2 分钟快速启动，克服启动困难
+- 允许调整计划，无罪恶感设计
 
 【核心功能】
 
 📝 快速记录
 - 一键记录任务和想法
 - 智能分类：任务、灵感、日记
-- 零阻力输入，想到即记录
+- 想到即记录，不打断思维流
 
 📋 今日聚焦
-- 每日最多 3 个重点任务，避免过载
+- 每日最多 3 个重点任务
+- 减少选择压力，聚焦真正重要的事
 - 拖拽规划，直观清晰
-- 完成任务获得成就感
 
 ⏱️ 专注计时
-- 2 分钟快速启动，克服拖延
+- 2 分钟微启动，降低开始门槛
 - 全屏沉浸模式，隔绝干扰
 - 番茄钟计时，培养专注习惯
+- 即时视觉反馈，保持动力
 
 💡 灵感收集
 - 随时记录灵感闪念
-- 不打断当前工作流程
+- 不打断当前任务
 - 需要时快速找回
 
 🎯 长期目标
-- 设定人生目标和长期愿望
+- 设定人生目标
 - 分解为可执行的小任务
 - 可视化追踪进度
 
@@ -71,9 +81,10 @@ EchoNotes - 简洁高效的个人效率工具
 
 【为什么选择 EchoNotes】
 
-✓ 简洁设计 - 专注于核心功能
+✓ ADHD 友好 - 理解执行功能困难
 ✓ 即时反馈 - 每个操作都有视觉确认
-✓ 灵活调整 - 允许调整计划，无压力
+✓ 宽容设计 - 允许调整，无压力
+✓ 简洁界面 - 减少视觉干扰
 ✓ 本地存储 - 数据安全，隐私保护
 ✓ iCloud 同步 - 多设备无缝切换
 ✓ 深色模式 - 护眼设计
@@ -84,33 +95,29 @@ EchoNotes - 简洁高效的个人效率工具
 • 不包含任何广告
 • 不追踪使用行为
 
-立即开始你的高效之旅！
+你的大脑很棒，只是需要合适的工具。
 ```
 
 ---
 
 ## 关键词 (Keywords)
 
-> 100 字符限制，用英文逗号分隔
-
 ```
-专注,任务管理,待办事项,番茄钟,效率,日记,习惯,目标,记账,倒计时,时间管理,GTD,清单,笔记
+ADHD,专注,任务管理,待办事项,番茄钟,效率,日记,习惯,目标,时间管理,GTD,清单,注意力
 ```
 
 ---
 
 ## 版本发布说明 (What's New)
 
-> 用于 1.0.0 版本
-
 ```
 EchoNotes 1.0.0 首发版本
 
-全新的个人效率管理应用：
+专为 ADHD 设计的效率管理应用：
 
-• 📝 快速记录任务和想法
+• 📝 快速记录，零阻力输入
 • 📋 今日聚焦，每日最多 3 个重点
-• ⏱️ 专注计时器，番茄钟模式
+• ⏱️ 2 分钟微启动，克服拖延
 • 💡 灵感收集，随时记录
 • 🎯 长期目标追踪
 • ☁️ iCloud 同步支持
@@ -119,6 +126,117 @@ EchoNotes 1.0.0 首发版本
 更多工具：习惯打卡、资产记账、生命电量、倒计时、决策转盘
 
 感谢使用 EchoNotes！如有建议请联系我们。
+```
+
+---
+
+# 🇺🇸 English Version
+
+## Promotional Text
+
+```
+ADHD-friendly task manager. Designed for brains that work differently. Quick capture, micro-starts, and a forgiving system that reduces overwhelm.
+```
+
+---
+
+## App Description
+
+```
+EchoNotes - ADHD-Friendly Productivity Tool
+
+We understand the unique needs of the ADHD brain: difficulty starting, easy distractions, and the anxiety of task overload. EchoNotes is designed specifically for you.
+
+【Designed for ADHD】
+
+🧠 We Get Your Brain
+- Zero-friction quick capture, never lose a thought
+- Max 3 daily tasks to prevent overwhelm
+- 2-minute micro-starts to beat procrastination
+- Forgiving design, no guilt for changing plans
+
+【Core Features】
+
+📝 Quick Capture
+- One-tap task and thought recording
+- Smart categorization: tasks, ideas, journal
+- Capture instantly without breaking your flow
+
+📋 Daily Focus
+- Maximum 3 priority tasks per day
+- Reduce decision fatigue, focus on what matters
+- Drag and drop planning, visually clear
+
+⏱️ Focus Timer
+- 2-minute micro-starts, lower the barrier
+- Full-screen immersion mode, block distractions
+- Pomodoro timer, build focus habits
+- Instant visual feedback, stay motivated
+
+💡 Idea Collection
+- Capture fleeting ideas anytime
+- Don't interrupt current tasks
+- Find them when you need them
+
+🎯 Long-term Goals
+- Set life goals
+- Break down into actionable steps
+- Visual progress tracking
+
+【More Tools】
+✓ Habit Tracker - Build good habits
+✓ Asset Tracker - Financial management
+✓ Life Battery - Mind & body wellness
+✓ Countdown Timer
+✓ Decision Wheel - Beat choice paralysis
+
+【Why EchoNotes】
+
+✓ ADHD-Friendly - Understands executive function challenges
+✓ Instant Feedback - Visual confirmation for every action
+✓ Forgiving Design - Change plans without guilt
+✓ Clean Interface - Reduced visual noise
+✓ Local Storage - Your data stays private
+✓ iCloud Sync - Seamless multi-device experience
+✓ Dark Mode - Easy on the eyes
+
+【Privacy Promise】
+• All data stored locally on your device
+• No personal information collected
+• No advertisements
+• No usage tracking
+
+Your brain is awesome. It just needs the right tools.
+```
+
+---
+
+## Keywords (English)
+
+```
+ADHD,focus,task,todo,pomodoro,productivity,journal,habit,goals,time management,GTD,checklist
+```
+
+---
+
+## What's New (English)
+
+```
+EchoNotes 1.0.0 - Initial Release
+
+ADHD-friendly productivity app:
+
+• 📝 Quick capture, zero friction
+• 📋 Daily focus, max 3 priorities
+• ⏱️ 2-minute micro-starts
+• 💡 Idea collection
+• 🎯 Long-term goal tracking
+• ☁️ iCloud sync
+• 🔒 Private journal with Face ID
+
+More tools: Habit tracker, Asset tracker, Life battery, Countdown, Decision wheel
+
+Thank you for using EchoNotes! We'd love your feedback.
 ```
 
 ---
