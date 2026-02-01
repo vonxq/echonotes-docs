@@ -149,7 +149,7 @@ ADHD 友好的效率管理应用：
 
 更多工具：生命电量、资产管理、倒计时、决策转盘、数据分析
 
-感谢使用 EchoNotes！
+感谢使用 EchoNotes！如有建议请联系：1573470409@qq.com
 ```
 
 ---
@@ -284,7 +284,7 @@ ADHD-friendly productivity app:
 
 More tools: Life Battery, Asset Tracker, Countdown, Decision Wheel, Analytics
 
-Thank you for using EchoNotes!
+Thank you for using EchoNotes! Feedback: 1573470409@qq.com
 ```
 
 ---
@@ -317,7 +317,7 @@ https://vonxq.github.io/echonotes-docs/privacy-policy.html
 - **名字**: [你的名字]
 - **姓氏**: [你的姓氏]
 - **电话**: [你的电话]
-- **邮箱**: echonotes.app@gmail.com
+- **邮箱**: 1573470409@qq.com
 
 ### 审核备注 (可选)
 ```
@@ -336,12 +336,47 @@ https://vonxq.github.io/echonotes-docs/privacy-policy.html
 
 ---
 
-## 加密合规信息
+## 加密合规信息 (Export Compliance)
 
-1. **您的 App 是否使用加密？** → 是
-2. **您的 App 是否符合以下任何一种豁免条件？**
-   - → 是，仅使用 iOS/macOS 中的标准加密（HTTPS）
-3. **您的 App 是否包含或使用来自第三方的加密功能？** → 否
+你的 App 使用了以下加密技术：
+- `react-native-quick-crypto` - AES-256-GCM 加密（用于私密日记端到端加密）
+- `expo-secure-store` - 系统 Keychain（用于安全存储密钥）
+- HTTPS - 网络通信（iCloud 同步）
+
+### App Store Connect 加密问题回答
+
+**1. 您的 App 是否使用加密？**
+→ **是 (Yes)**
+
+**2. 您的 App 是否仅使用操作系统中的标准加密？**
+→ **否 (No)** - 因为使用了 react-native-quick-crypto
+
+**3. 您的 App 是否使用非豁免加密？**
+→ **是 (Yes)**
+
+**4. 您的 App 是否符合 Category 5 Part 2 的豁免条件？**
+→ **是 (Yes)** - 加密仅用于保护用户数据（私密日记的端到端加密）
+
+### 豁免理由说明
+
+根据美国出口管理条例 (EAR) §740.17(b)(1)，本应用符合豁免条件：
+- 加密功能**仅用于保护用户的私人数据**（私密日记）
+- **不用于通信加密**（iCloud 同步使用 Apple 提供的标准 HTTPS）
+- 用户**完全控制自己的加密密钥**（助记词由用户保管）
+- **不涉及任何政府、军事或敏感数据**
+
+### 需要填写的内容
+
+在 App Store Connect 中选择：
+```
+☑️ Yes, the app uses encryption
+   ↓
+☑️ Does your app qualify for any of the exemptions provided in Category 5, Part 2 of the U.S. Export Administration Regulations?
+   ↓
+☑️ Yes
+```
+
+**注意**：如果 Apple 要求提供更多信息，可以说明加密仅用于用户本地数据保护，不涉及通信加密。
 
 ---
 
