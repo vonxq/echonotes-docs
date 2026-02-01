@@ -9,8 +9,8 @@
 | 字段 | 内容 |
 |------|------|
 | **App 名称** | EchoNotes |
-| **副标题 (中文)** | 专为 ADHD 设计的效率工具 |
-| **副标题 (英文)** | ADHD-Friendly Productivity Tool |
+| **副标题 (中文)** | ADHD 友好的效率管理工具 |
+| **副标题 (英文)** | ADHD-Friendly Productivity App |
 | **Bundle ID** | com.echonotes.app |
 | **类别** | 主：效率 (Productivity) / 副：生活 (Lifestyle) |
 | **年龄分级** | 4+ |
@@ -24,7 +24,7 @@
 > 170 字符限制，可随时更新，无需审核
 
 ```
-专为 ADHD 设计的任务管理应用。理解你的大脑，帮助你快速启动、保持专注、减少任务焦虑。简洁直观，让效率管理不再困难。
+专为 ADHD 设计的效率管理应用。快速记录任务和灵感，追踪习惯和目标，专注计时克服拖延。简洁直观，数据本地存储，保护隐私。
 ```
 
 ---
@@ -32,62 +32,85 @@
 ## App 描述 (Description)
 
 ```
-EchoNotes - 专为 ADHD 设计的效率工具
+EchoNotes - ADHD 友好的效率管理工具
 
-我们理解 ADHD 大脑的独特需求：启动困难、容易分心、任务过载带来的焦虑。EchoNotes 专门为此而设计。
-
-【为 ADHD 优化的设计】
-
-🧠 理解你的大脑
-- 零阻力快速记录，不让想法溜走
-- 每日最多 3 个任务，避免过载焦虑
-- 2 分钟快速启动，克服启动困难
-- 允许调整计划，无罪恶感设计
+专为需要更好管理注意力和时间的你设计。我们理解 ADHD 大脑的独特需求，提供简洁直观的工具帮助你保持专注。
 
 【核心功能】
 
-📝 快速记录
-- 一键记录任务和想法
-- 智能分类：任务、灵感、日记
-- 想到即记录，不打断思维流
+📝 任务管理
+- 快速记录待办事项
+- 支持设置截止日期和提醒
+- 任务池管理，随时规划
+- 归档功能，保持清爽
 
-📋 今日聚焦
-- 每日最多 3 个重点任务
-- 减少选择压力，聚焦真正重要的事
-- 拖拽规划，直观清晰
+✅ 习惯追踪
+- 自定义每日/每周习惯
+- 打卡记录，可视化进度
+- 支持灵活的频率设置
+- 连续打卡激励
 
-⏱️ 专注计时
-- 2 分钟微启动，降低开始门槛
-- 全屏沉浸模式，隔绝干扰
-- 番茄钟计时，培养专注习惯
-- 即时视觉反馈，保持动力
+🎯 目标管理
+- 设定长期目标
+- 分解为阶段性任务
+- 追踪进度，保持动力
+- 子目标拆分
 
 💡 灵感收集
 - 随时记录灵感闪念
-- 不打断当前任务
-- 需要时快速找回
+- 快速捕捉，不丢失想法
+- 支持图片附件
+- 方便日后回顾
 
-🎯 长期目标
-- 设定人生目标
-- 分解为可执行的小任务
-- 可视化追踪进度
+⏱️ 专注计时
+- 番茄钟计时模式
+- 自定义专注时长
+- 全屏沉浸模式
+- 帮助克服拖延
+
+📅 日历视图
+- 时间线展示
+- 查看历史记录
+- 日/月/年视图切换
+- 直观了解时间分配
 
 【更多工具】
-✓ 习惯打卡 - 养成好习惯
-✓ 资产记账 - 财务管理
-✓ 生命电量 - 关注身心健康
-✓ 重要日期倒计时
-✓ 决策转盘 - 告别选择困难
+
+🔋 生命电量
+- 人生倒计时可视化
+- 珍惜每一天
+
+💰 资产管理
+- 记录资产变化
+- 财务盘点一目了然
+
+⏳ 倒计时
+- 重要日期提醒
+- 支持农历日期
+
+🎲 决策转盘
+- 自定义选项
+- 随机抽签决策
+- 告别选择困难
+
+📊 数据分析
+- 任务完成统计
+- 习惯达成分析
+- 专注时长记录
+
+🔒 私密日记
+- Face ID / Touch ID 保护
+- 记录私密想法
 
 【为什么选择 EchoNotes】
 
-✓ ADHD 友好 - 理解执行功能困难
-✓ 即时反馈 - 每个操作都有视觉确认
-✓ 宽容设计 - 允许调整，无压力
-✓ 简洁界面 - 减少视觉干扰
-✓ 本地存储 - 数据安全，隐私保护
-✓ iCloud 同步 - 多设备无缝切换
-✓ 深色模式 - 护眼设计
+✓ ADHD 友好设计
+✓ 简洁直观的界面
+✓ 即时视觉反馈
+✓ 本地数据存储
+✓ iCloud 同步支持
+✓ 深色模式护眼
+✓ 无广告干扰
 
 【隐私承诺】
 • 所有数据存储在您的设备本地
@@ -95,7 +118,7 @@ EchoNotes - 专为 ADHD 设计的效率工具
 • 不包含任何广告
 • 不追踪使用行为
 
-你的大脑很棒，只是需要合适的工具。
+你的效率伙伴，从 EchoNotes 开始。
 ```
 
 ---
@@ -103,7 +126,7 @@ EchoNotes - 专为 ADHD 设计的效率工具
 ## 关键词 (Keywords)
 
 ```
-ADHD,专注,任务管理,待办事项,番茄钟,效率,日记,习惯,目标,时间管理,GTD,清单,注意力
+ADHD,任务,待办,习惯,目标,专注,番茄钟,日记,效率,时间管理,GTD,清单,提醒,日历
 ```
 
 ---
@@ -113,19 +136,20 @@ ADHD,专注,任务管理,待办事项,番茄钟,效率,日记,习惯,目标,时�
 ```
 EchoNotes 1.0.0 首发版本
 
-专为 ADHD 设计的效率管理应用：
+ADHD 友好的效率管理应用：
 
-• 📝 快速记录，零阻力输入
-• 📋 今日聚焦，每日最多 3 个重点
-• ⏱️ 2 分钟微启动，克服拖延
-• 💡 灵感收集，随时记录
-• 🎯 长期目标追踪
-• ☁️ iCloud 同步支持
-• 🔒 私密日记，Face ID 保护
+• 📝 任务管理 - 快速记录待办事项
+• ✅ 习惯追踪 - 打卡记录养成好习惯
+• 🎯 目标管理 - 设定并追踪长期目标
+• 💡 灵感收集 - 随时捕捉灵感闪念
+• ⏱️ 专注计时 - 番茄钟帮助保持专注
+• 📅 日历视图 - 直观查看时间安排
+• ☁️ iCloud 同步 - 多设备数据同步
+• 🔒 私密日记 - Face ID 保护隐私
 
-更多工具：习惯打卡、资产记账、生命电量、倒计时、决策转盘
+更多工具：生命电量、资产管理、倒计时、决策转盘、数据分析
 
-感谢使用 EchoNotes！如有建议请联系我们。
+感谢使用 EchoNotes！
 ```
 
 ---
@@ -135,7 +159,7 @@ EchoNotes 1.0.0 首发版本
 ## Promotional Text
 
 ```
-ADHD-friendly task manager. Designed for brains that work differently. Quick capture, micro-starts, and a forgiving system that reduces overwhelm.
+ADHD-friendly productivity app. Quickly capture tasks and ideas, track habits and goals, focus timer to beat procrastination. Clean interface, local data storage.
 ```
 
 ---
@@ -143,62 +167,85 @@ ADHD-friendly task manager. Designed for brains that work differently. Quick cap
 ## App Description
 
 ```
-EchoNotes - ADHD-Friendly Productivity Tool
+EchoNotes - ADHD-Friendly Productivity App
 
-We understand the unique needs of the ADHD brain: difficulty starting, easy distractions, and the anxiety of task overload. EchoNotes is designed specifically for you.
-
-【Designed for ADHD】
-
-🧠 We Get Your Brain
-- Zero-friction quick capture, never lose a thought
-- Max 3 daily tasks to prevent overwhelm
-- 2-minute micro-starts to beat procrastination
-- Forgiving design, no guilt for changing plans
+Designed for those who need better attention and time management. We understand the unique needs of the ADHD brain and provide simple, intuitive tools to help you stay focused.
 
 【Core Features】
 
-📝 Quick Capture
-- One-tap task and thought recording
-- Smart categorization: tasks, ideas, journal
-- Capture instantly without breaking your flow
+📝 Task Management
+- Quickly record to-dos
+- Set due dates and reminders
+- Task pool for easy planning
+- Archive to keep things clean
 
-📋 Daily Focus
-- Maximum 3 priority tasks per day
-- Reduce decision fatigue, focus on what matters
-- Drag and drop planning, visually clear
+✅ Habit Tracking
+- Custom daily/weekly habits
+- Check-in records with visual progress
+- Flexible frequency settings
+- Streak motivation
 
-⏱️ Focus Timer
-- 2-minute micro-starts, lower the barrier
-- Full-screen immersion mode, block distractions
-- Pomodoro timer, build focus habits
-- Instant visual feedback, stay motivated
+🎯 Goal Management
+- Set long-term goals
+- Break down into milestones
+- Track progress, stay motivated
+- Sub-goal breakdown
 
 💡 Idea Collection
 - Capture fleeting ideas anytime
-- Don't interrupt current tasks
-- Find them when you need them
+- Quick capture, never lose a thought
+- Image attachments supported
+- Easy to review later
 
-🎯 Long-term Goals
-- Set life goals
-- Break down into actionable steps
-- Visual progress tracking
+⏱️ Focus Timer
+- Pomodoro timer mode
+- Custom focus duration
+- Full-screen immersion mode
+- Beat procrastination
+
+📅 Calendar View
+- Timeline display
+- View history records
+- Day/Month/Year view toggle
+- Understand your time allocation
 
 【More Tools】
-✓ Habit Tracker - Build good habits
-✓ Asset Tracker - Financial management
-✓ Life Battery - Mind & body wellness
-✓ Countdown Timer
-✓ Decision Wheel - Beat choice paralysis
+
+🔋 Life Battery
+- Visualize life countdown
+- Cherish every day
+
+💰 Asset Tracker
+- Record asset changes
+- Financial overview at a glance
+
+⏳ Countdown
+- Important date reminders
+- Lunar calendar support
+
+🎲 Decision Wheel
+- Custom options
+- Random selection
+- Beat choice paralysis
+
+📊 Analytics
+- Task completion stats
+- Habit achievement analysis
+- Focus time records
+
+🔒 Private Journal
+- Face ID / Touch ID protection
+- Record private thoughts
 
 【Why EchoNotes】
 
-✓ ADHD-Friendly - Understands executive function challenges
-✓ Instant Feedback - Visual confirmation for every action
-✓ Forgiving Design - Change plans without guilt
-✓ Clean Interface - Reduced visual noise
-✓ Local Storage - Your data stays private
-✓ iCloud Sync - Seamless multi-device experience
-✓ Dark Mode - Easy on the eyes
+✓ ADHD-friendly design
+✓ Clean, intuitive interface
+✓ Instant visual feedback
+✓ Local data storage
+✓ iCloud sync support
+✓ Dark mode
+✓ No ads
 
 【Privacy Promise】
 • All data stored locally on your device
@@ -206,7 +253,7 @@ We understand the unique needs of the ADHD brain: difficulty starting, easy dist
 • No advertisements
 • No usage tracking
 
-Your brain is awesome. It just needs the right tools.
+Your productivity companion starts with EchoNotes.
 ```
 
 ---
@@ -214,7 +261,7 @@ Your brain is awesome. It just needs the right tools.
 ## Keywords (English)
 
 ```
-ADHD,focus,task,todo,pomodoro,productivity,journal,habit,goals,time management,GTD,checklist
+ADHD,task,todo,habit,goal,focus,pomodoro,journal,productivity,time,GTD,checklist,reminder,calendar
 ```
 
 ---
@@ -226,17 +273,18 @@ EchoNotes 1.0.0 - Initial Release
 
 ADHD-friendly productivity app:
 
-• 📝 Quick capture, zero friction
-• 📋 Daily focus, max 3 priorities
-• ⏱️ 2-minute micro-starts
-• 💡 Idea collection
-• 🎯 Long-term goal tracking
-• ☁️ iCloud sync
-• 🔒 Private journal with Face ID
+• 📝 Task Management - Quick to-do recording
+• ✅ Habit Tracking - Build good habits
+• 🎯 Goal Management - Set and track goals
+• 💡 Idea Collection - Capture inspirations
+• ⏱️ Focus Timer - Pomodoro for focus
+• 📅 Calendar View - Visual time overview
+• ☁️ iCloud Sync - Multi-device sync
+• 🔒 Private Journal - Face ID protected
 
-More tools: Habit tracker, Asset tracker, Life battery, Countdown, Decision wheel
+More tools: Life Battery, Asset Tracker, Countdown, Decision Wheel, Analytics
 
-Thank you for using EchoNotes! We'd love your feedback.
+Thank you for using EchoNotes!
 ```
 
 ---
@@ -244,13 +292,13 @@ Thank you for using EchoNotes! We'd love your feedback.
 ## 支持 URL
 
 ```
-https://[你的GitHub用户名].github.io/echonotes-docs/support.html
+https://vonxq.github.io/echonotes-docs/support.html
 ```
 
 ## 隐私政策 URL
 
 ```
-https://[你的GitHub用户名].github.io/echonotes-docs/privacy-policy.html
+https://vonxq.github.io/echonotes-docs/privacy-policy.html
 ```
 
 ---
@@ -275,10 +323,12 @@ https://[你的GitHub用户名].github.io/echonotes-docs/privacy-policy.html
 ```
 这是一款个人效率管理应用，主要功能包括：
 1. 任务管理 - 记录和管理待办事项
-2. 专注计时 - 番茄钟计时器帮助用户保持专注
-3. 日记记录 - 记录日常想法和灵感
-4. 习惯追踪 - 帮助用户养成好习惯
-5. iCloud 同步 - 支持多设备数据同步
+2. 习惯追踪 - 帮助用户养成好习惯
+3. 目标管理 - 设定和追踪长期目标
+4. 灵感收集 - 记录灵感和想法
+5. 专注计时 - 番茄钟帮助用户保持专注
+6. iCloud 同步 - 支持多设备数据同步
+7. 私密日记 - 支持 Face ID 保护的私密记录
 
 所有数据存储在用户设备本地或用户的 iCloud 账户中。
 应用不需要登录账号即可使用全部功能。
@@ -287,8 +337,6 @@ https://[你的GitHub用户名].github.io/echonotes-docs/privacy-policy.html
 ---
 
 ## 加密合规信息
-
-回答以下问题：
 
 1. **您的 App 是否使用加密？** → 是
 2. **您的 App 是否符合以下任何一种豁免条件？**
@@ -308,34 +356,16 @@ https://[你的GitHub用户名].github.io/echonotes-docs/privacy-policy.html
 
 ### 建议截图内容 (5-10 张)
 
-1. **首页** - 星港通信台，快速记录
-2. **今日任务** - 3 个重点任务
-3. **专注计时** - 全屏沉浸模式
-4. **日历视图** - 时间线展示
-5. **工具箱** - 多功能展示
-6. **长期目标** - 深空目标追踪
-7. **习惯打卡** - 打卡界面
-8. **iCloud 同步** - 云同步功能
+1. **首页** - 任务列表视图
+2. **习惯打卡** - 习惯追踪界面
+3. **目标管理** - 长期目标视图
+4. **专注计时** - 番茄钟界面
+5. **日历视图** - 时间线展示
+6. **工具箱** - 多功能工具入口
+7. **灵感收集** - 灵感记录
+8. **数据分析** - 统计图表
 9. **私密日记** - Face ID 保护
-10. **深色主题** - 护眼设计
-
----
-
-## 托管隐私政策和支持页面
-
-### 方法 1: GitHub Pages (推荐)
-
-1. 创建新仓库 `echonotes-docs`
-2. 上传 `docs/` 文件夹中的文件
-3. 启用 GitHub Pages (Settings → Pages → Source: main branch)
-4. 访问: `https://[用户名].github.io/echonotes-docs/`
-
-### 方法 2: Notion 公开页面
-
-1. 在 Notion 创建页面
-2. 复制内容
-3. 点击 "Share" → "Publish"
-4. 获取公开链接
+10. **iCloud 同步** - 云同步设置
 
 ---
 
@@ -356,4 +386,4 @@ https://[你的GitHub用户名].github.io/echonotes-docs/privacy-policy.html
 
 ---
 
-祝发布顺利！🚀
+祝发布顺利！
