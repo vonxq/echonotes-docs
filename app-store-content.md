@@ -8,7 +8,7 @@
 
 | 字段 | 内容 |
 |------|------|
-| **App 名称** | EchoNotes |
+| **App 名称** | EchoDo |
 | **副标题 (中文)** | ADHD 友好的效率管理工具 |
 | **副标题 (英文)** | ADHD-Friendly Productivity App |
 | **Bundle ID** | com.echonotes.app |
@@ -32,7 +32,7 @@
 ## App 描述 (Description)
 
 ```
-EchoNotes - ADHD 友好的效率管理工具
+EchoDo - ADHD 友好的效率管理工具
 
 专为需要更好管理注意力和时间的你设计。我们理解 ADHD 大脑的独特需求，提供简洁直观的工具帮助你保持专注。
 
@@ -102,7 +102,7 @@ EchoNotes - ADHD 友好的效率管理工具
 - Face ID / Touch ID 保护
 - 记录私密想法
 
-【为什么选择 EchoNotes】
+【为什么选择 EchoDo】
 
 ✓ ADHD 友好设计
 ✓ 简洁直观的界面
@@ -118,7 +118,7 @@ EchoNotes - ADHD 友好的效率管理工具
 • 不包含任何广告
 • 不追踪使用行为
 
-你的效率伙伴，从 EchoNotes 开始。
+你的效率伙伴，从 EchoDo 开始。
 ```
 
 ---
@@ -134,7 +134,7 @@ ADHD,任务,待办,习惯,目标,专注,番茄钟,日记,效率,时间管理,GTD
 ## 版本发布说明 (What's New)
 
 ```
-EchoNotes 1.0.0 首发版本
+EchoDo 1.0.0 首发版本
 
 ADHD 友好的效率管理应用：
 
@@ -149,7 +149,7 @@ ADHD 友好的效率管理应用：
 
 更多工具：生命电量、资产管理、倒计时、决策转盘、数据分析
 
-感谢使用 EchoNotes！如有建议请联系：1573470409@qq.com
+感谢使用 EchoDo！如有建议请联系：1573470409@qq.com
 ```
 
 ---
@@ -237,7 +237,7 @@ Designed for those who need better attention and time management. We understand 
 - Face ID / Touch ID protection
 - Record private thoughts
 
-【Why EchoNotes】
+【Why EchoDo】
 
 ✓ ADHD-friendly design
 ✓ Clean, intuitive interface
@@ -253,7 +253,7 @@ Designed for those who need better attention and time management. We understand 
 • No advertisements
 • No usage tracking
 
-Your productivity companion starts with EchoNotes.
+Your productivity companion starts with EchoDo.
 ```
 
 ---
@@ -269,7 +269,7 @@ ADHD,task,todo,habit,goal,focus,pomodoro,journal,productivity,time,GTD,checklist
 ## What's New (English)
 
 ```
-EchoNotes 1.0.0 - Initial Release
+EchoDo 1.0.0 - Initial Release
 
 ADHD-friendly productivity app:
 
@@ -284,7 +284,7 @@ ADHD-friendly productivity app:
 
 More tools: Life Battery, Asset Tracker, Countdown, Decision Wheel, Analytics
 
-Thank you for using EchoNotes! Feedback: 1573470409@qq.com
+Thank you for using EchoDo! Feedback: 1573470409@qq.com
 ```
 
 ---
